@@ -1,2 +1,2 @@
 # webcrawlerhttp
-Project for studying http
+Project for studying http, Javascript and Test Driven Design.
